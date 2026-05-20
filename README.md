@@ -36,7 +36,7 @@ Profile ←→ Edit Profile
 ## 📸 Screenshot
 
 ### Splash Screen & Home Screen
-![Splash Screen](screenshots/splash.png)
+![Splash Screen](Screenshot_20260520_185354.png)
 ![Home Screen](screenshots/home.png)
 
 ### Menu & Detail Menu
