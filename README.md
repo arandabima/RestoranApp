@@ -36,19 +36,19 @@ Profile ←→ Edit Profile
 ## 📸 Screenshot
 
 ### Splash Screen & Home Screen
-![Splash Screen](splash.png)
-![Home Screen](Home.png)
+![Splash Screen](screenshots/splash.png)
+![Home Screen](screenshots/Home.png)
 
 ### Menu & Detail Menu
-![Menu Screen](menu.png)
-![Detail Menu](detail.png)
+![Menu Screen](screenshots/menu.png)
+![Detail Menu](screenshots/detail.png)
 
 ### Profile & Edit Profile
-![Profile Screen](profile.png)
-![Edit Profile](edit_profile.png)
+![Profile Screen](screenshots/profile.png)
+![Edit Profile](screenshots/edit_profile.png)
 
 ### Dark Mode
-![Dark Mode](dark_mode.png)
+![Dark Mode](screenshots/dark_mode.png)
 
 
 ## Cara Menjalankan
